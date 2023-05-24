@@ -1,0 +1,11 @@
+.menu-item{
+    color: var(--des);
+    margin-bottom: 10px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: 0.5s all ease-in-out;
+}
+
+.menu-item:hover{
+    color:var(--light) !important;
+}

@@ -1,0 +1,16 @@
+:root{
+    --dark:hsl(226, 43%, 10%);
+    --darkBlue:hsl(235, 46%, 20%);
+    --Blue:hsl(246, 80%, 60%);
+    --light:white;
+    --des:hsl(235, 45%, 61%);
+    --pale: rgb(189, 193, 255);
+}
+body{
+    background-color: var(--dark);
+}
+.content{
+    width: 70%;
+    margin: auto;
+    margin-top: 10%;
+}
